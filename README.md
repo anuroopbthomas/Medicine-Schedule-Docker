@@ -6,6 +6,8 @@ This repo contains all of the project files, and images that display the dashboa
 
 Find the images of what the dashboard should look like in the "Pictures" folder
 
+Only files that have to be kept are /target, Dockerfile, pom.xml, spring-boot-demo.iml
+
 Steps to Replicate:
 1. Open Docker Quickstart terminal
 2. $ docker image pull anuroopthomas/medicinescheduledocker
